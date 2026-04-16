@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:38bdf8,100:a78bfa&text=Software%20Engineer%20(Frontend)&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Crafting%20high-performance%20web%20applications%20with%20clean%20UI,%20SEO,%20and%20scalable%20frontend%20architecture&descAlignY=60&animation=fadeIn" width="100%" />
+# Hi, I'm Raka Gemi Ibrahim
 
-# Software Engineer (Frontend)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Liquid%20Glass-7dd3fc?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-Nearly%204%20Years-a78bfa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%20%7C%20Performance-0ea5e9?style=for-the-badge" />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,55:38bdf8,100:c4b5fd&text=Software%20Engineer%20(Frontend)&fontColor=ffffff&fontSize=28&fontAlignY=37&desc=Building%20high-performance,%20SEO-friendly,%20and%20scalable%20frontend%20applications&descAlignY=60&descSize=17&animation=fadeIn"
+  width="100%"
+/>
 
 </div>
 
@@ -23,7 +20,11 @@ Computer Science professional also Frontend Developer with nearly 4 years of pro
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,nodejs,python,flask,php,laravel,mysql,postgres,github,gitlab,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vue,nodejs,python,flask" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,github,gitlab,docker,nginx" />
 </p>
 
 ---
