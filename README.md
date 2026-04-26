@@ -3,7 +3,7 @@
 # Hi, I'm Raka Gemi Ibrahim
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,55:38bdf8,100:c4b5fd&text=Software%20Engineer%20(Frontend)&fontColor=ffffff&fontSize=28&fontAlignY=37&desc=Building%20high-performance,%20SEO-friendly,%20and%20scalable%20frontend%20applications&descAlignY=60&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,55:38bdf8,100:c4b5fd&text=Software%20Engineer&fontColor=ffffff&fontSize=28&fontAlignY=37&desc=Building%20high-performance,%20SEO-friendly,%20and%20scalable%20frontend%20applications&descAlignY=60&descSize=17&animation=fadeIn"
   width="100%"
 />
 
