@@ -64,8 +64,8 @@ Computer Science professional also Frontend Developer with nearly 4 years of pro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rakagemi&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=e2e8f0&icon_color=a78bfa&ring_color=38bdf8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakagemi&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=e2e8f0" />
+<img height="170" src="https://github-readme-stats-six-sigma-91.vercel.app/api?username=rakagemi&show_icons=true&theme=transparent&cache_seconds=86400&hide_border=true&title_color=7dd3fc&text_color=e2e8f0&icon_color=a78bfa&ring_color=38bdf8" />
+<img height="170" src="https://github-readme-stats-six-sigma-91.vercel.app/api/top-langs/?username=rakagemi&layout=compact&theme=transparent&cache_seconds=86400&hide_border=true&title_color=7dd3fc&text_color=e2e8f0" />
 
 </div>
 
